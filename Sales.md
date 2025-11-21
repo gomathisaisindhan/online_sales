@@ -28,7 +28,7 @@ By completing this task, you will understand how real-world sales databases are 
 
 ---
 
-## 📁 Task 6 SQL Files Explanation
+### 📁 Task 6 SQL Files Explanation
 
 ### *1️⃣ task6input1.sql – Date Fixing & Month Extraction*
 - Converts orderdate using STR_TO_DATE.  
