@@ -1,11 +1,11 @@
-# online_sales
+# Online_sales
 Converts string-based order dates into proper SQL dates, extracts year and month, and produces monthly insights such as revenue, order count, and distinct order volume. Helps clean data, group results accurately, and prepare clear month-wise reports for analytics.
-# SQL Monthly Sales Trend & Date Parsing Analysis  
+## SQL Monthly Sales Trend & Date Parsing Analysis  
 A complete breakdown of data cleaning, date transformation, and monthly sales aggregation using SQL.
 
 ---
 
-## 📌 Overview  
+### 📌 Overview  
 Task focuses on transforming raw sales data into structured, analysis-ready outputs.  
 The primary challenge lies in fixing the *incorrect date format* (DD-MM-YYYY stored as text) and generating *monthly-level insights* needed for business reporting, dashboards, and forecasting.
 
@@ -17,7 +17,7 @@ This task builds your ability to:
 
 ---
 
-## 🎯 Objectives  
+### 🎯 Objectives  
 1. Convert string-based order dates into proper SQL DATE format.  
 2. Extract year and month values for grouping.  
 3. Calculate monthly revenue and order metrics.  
